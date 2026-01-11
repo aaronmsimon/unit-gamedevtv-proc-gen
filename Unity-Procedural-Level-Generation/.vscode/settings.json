@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Unity-Procedural-Level-Generation.sln"
+    "dotnet.defaultSolution": "Unity-Procedural-Level-Generation.slnx"
 }
